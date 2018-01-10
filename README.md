@@ -7,7 +7,7 @@ Metasploit Framework software for penetration testing.
 
 ##
 
-To donwload the image:  
+To download the image:  
 
 ```
 docker pull dubirajara/kalilinux-metasploit-framework
